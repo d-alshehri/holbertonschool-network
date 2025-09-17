@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-# This script prints the numbers corresponding to the correct choices for MAC and IP addresses
-
-echo 2
-echo 1
+2
+1
