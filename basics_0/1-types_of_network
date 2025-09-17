@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script prints the types of network for different scenarios
+# This script prints the numbers corresponding to the correct choices for types of network
 
-echo "LAN"
-echo "WAN"
-echo "Internet"
+echo 3
+echo 2
+echo 1
