@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-# This script prints the numbers corresponding to the correct choices for types of network
-
-echo 3
-echo 2
-echo 1
+3
+2
+1
