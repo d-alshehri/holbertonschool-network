@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script to listen on port 98 on localhost and display received text
+
+# Listen on 127.0.0.2:98 and print any received input
+sudo nc -l -p 98 -s 127.0.0.2
