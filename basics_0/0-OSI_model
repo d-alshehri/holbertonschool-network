@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script prints the correct answers about the OSI model
+# This script prints the numbers corresponding to the correct choices for OSI model questions
 
-echo "The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology"
-echo "From the lowest to the highest level"
+echo 2
+echo 2
